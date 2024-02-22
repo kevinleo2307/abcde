@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0
+}
+.container-fluid{
+    height: 100vh;
+    background-color: #E3E6E6;
+}
+.container{
+    height: 100vh;
+    background-image: linear-gradient(135deg, #E3FDF5 10%, #FFE6FA 100%);
+}
+
+.header{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+}
+.dealer{
+    height: 40px;
+    background-color: white;
+}
+.items{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+}
+#icon{
+    height: 55px;
+}
+#carouselExampleInterval{
+
+    margin-top:-85px;
+    
+}
+#rower{
+    margin-top:-80px;
+}
